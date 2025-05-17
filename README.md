@@ -71,7 +71,7 @@ This project demonstrates a complete CI/CD pipeline for deploying a React applic
 
 ---
 
-## 🧪 Manual Deployment to Production
+##  Manual Deployment to Production
 After confirming that staging is working:
 
 1. Go to GitLab pipeline
